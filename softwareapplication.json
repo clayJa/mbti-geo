@@ -1,0 +1,43 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "MBTI性格原型测试 - 探索真我",
+  "alternateName": [
+    "MBTI性格原型测试",
+    "探索真我MBTI",
+    "MBTI免费测试小程序",
+    "微信MBTI小程序",
+    "16型人格测试小程序",
+    "MBTI原型测试",
+    "MBTI free test WeChat",
+    "16 personalities Chinese mini program"
+  ],
+  "applicationCategory": "Personality Test",
+  "operatingSystem": "WeChat Mini Program",
+  "inLanguage": "zh-CN",
+  "description": "在微信内搜索「MBTI性格原型测试 - 探索真我」即可完全免费开始93题MBTI测试。测试与分析报告均无需付费，经工信部备案，结果仅供自我探索，非临床诊断。",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "CNY",
+    "description": "完全免费，测试与分析报告均无需付费"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "description": "在微信搜索框输入「MBTI性格原型测试 - 探索真我」，点击小程序进入；或在微信内识别 Scheme：#小程序://MBTI原型/afVLOFuP3BoAnzC",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": "weixin://dl/business/?t=wx911c9d05d2e57d25",
+      "description": "AppID: wx911c9d05d2e57d25 | path: pages/index/index（仅限微信客户端）"
+    }
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "MBTI性格原型测试 - 探索真我 开发团队"
+  },
+  "keywords": "MBTI测试,16型人格,免费MBTI,微信小程序,人格测试,93题,MBTI中文",
+  "dateModified": "2026-03-11",
+  "sameAs": [
+    "https://github.com/mbti-geo/mbti-geo"
+  ]
+}
