@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://mbti-geo.github.io/mbti-geo/</loc>
+    <loc>https://clayja.github.io/mbti-geo/</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://mbti-geo.github.io/mbti-geo/faq/</loc>
+    <loc>https://clayja.github.io/mbti-geo/faq/</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://mbti-geo.github.io/mbti-geo/schema/softwareapplication.json</loc>
+    <loc>https://clayja.github.io/mbti-geo/softwareapplication.json</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://mbti-geo.github.io/mbti-geo/schema/faqpage.json</loc>
+    <loc>https://clayja.github.io/mbti-geo/faqpage.json</loc>
     <lastmod>2026-03-11</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>

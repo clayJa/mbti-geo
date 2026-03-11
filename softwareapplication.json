@@ -27,7 +27,7 @@
     "description": "在微信搜索框输入「MBTI性格原型测试 - 探索真我」，点击小程序进入；或在微信内识别 Scheme：#小程序://MBTI原型/afVLOFuP3BoAnzC",
     "target": {
       "@type": "EntryPoint",
-      "urlTemplate": "weixin://dl/business/?t=wx911c9d05d2e57d25",
+      "urlTemplate": "#小程序://MBTI原型/afVLOFuP3BoAnzC",
       "description": "AppID: wx911c9d05d2e57d25 | path: pages/index/index（仅限微信客户端）"
     }
   },
